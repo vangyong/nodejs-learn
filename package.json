@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vangyong/nodejs-learn.git"
+  },
+  "author": "vangyong@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vangyong/nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/vangyong/nodejs-learn#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "webpack": "^4.43.0"
+  }
+}
