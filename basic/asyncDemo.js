@@ -20,7 +20,7 @@ console.log("--------")
 
 async function helloAsync2(){
     await testAwait();
-    console.log("helloAsync");
+    console.log("helloAsync2");
 }
 helloAsync2();
 // testAwait

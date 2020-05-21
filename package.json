@@ -19,5 +19,8 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
